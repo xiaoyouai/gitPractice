@@ -10,3 +10,6 @@ let c = 12;
 let t = 12;
 let t3243514 = 324132;
 let b = "example";
+let a2 = "matser";
+let a3 = "matser";
+let a4 = "matser";
