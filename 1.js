@@ -1,5 +1,3 @@
-const a = 12;
-const b = 32;
 let b = "example";
 let a2 = "matser2";
 let a3 = "matser3";
