@@ -7,3 +7,4 @@ let e = 6;
 let f = 7;
 let g = 1;
 let a1 = 1;
+let a2 = 23;
