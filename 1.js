@@ -4,3 +4,4 @@ let c = 3;
 let d = 4;
 let c = 5;
 let e = 6;
+let f = 7;
