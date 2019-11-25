@@ -22,3 +22,4 @@ let b2 = "example3";
 let b3 = "example4";
 let b4 = "example5";
 let b5 = "exampl6e";
+let r32435431 = 12;
