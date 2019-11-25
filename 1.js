@@ -6,3 +6,4 @@ let c = 5;
 let e = 6;
 let f = 7;
 let g = 1;
+let a1 = 1;
